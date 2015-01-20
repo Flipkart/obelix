@@ -1,0 +1,5 @@
+Apparel
+Books
+Computers
+Electronics
+Others
